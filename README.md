@@ -62,9 +62,11 @@ This repository contains the build of a car racing game developed as part of my 
 
 ## 🎮 Getting Started
 
-The game setup is available in the `Build` folder. To play:
+The game setup is available in the `Google Drive` folder. To play:
 
-1. Download the `.apk` file from the latest release
+- https://drive.google.com/file/d/1KdIgxCFyGqG0Q4H2ZtDbf3BDI-ty0qJX/view?usp=drivesdk
+
+1. Download the `.apk` file from above link
 2. On your Android device, enable "Install Unknown Sources" in Settings → Security
 3. Open the downloaded APK to install
 4. Launch the game and enjoy!
